@@ -1,6 +1,6 @@
 # Work_with_COLLECTIONS_ARRAYS
 
-## COLLECTION work with a one-dimensional array
+## work with a one-dimensional array
 
 Create an array Integer, fill it with random numeric values. 
 
@@ -8,7 +8,7 @@ Create an array Integer, fill it with random numeric values.
 
 - Fill the array with fill().
 
-## COLLECTION work with an array of objects
+## work with an array of objects
 
 Create class Car with fields number of horsepower, year of manufacture.
 
